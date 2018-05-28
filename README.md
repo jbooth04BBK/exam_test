@@ -1,5 +1,4 @@
-# Exam test
-Principals Of programming I - Exam Test
+# Principals Of programming I - Exam Test
 
 Examination Number: P100036
 
